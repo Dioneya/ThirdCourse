@@ -1,0 +1,16 @@
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\VMathLaba1.1.exe
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\VMathLaba1.1.deps.json
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\VMathLaba1.1.runtimeconfig.json
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\VMathLaba1.1.runtimeconfig.dev.json
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\VMathLaba1.1.dll
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\ref\VMathLaba1.1.dll
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\bin\Debug\net5.0\VMathLaba1.1.pdb
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.csproj.AssemblyReference.cache
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.AssemblyInfoInputs.cache
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.AssemblyInfo.cs
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.csproj.CoreCompileInputs.cache
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.dll
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\ref\VMathLaba1.1.dll
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.pdb
+C:\Users\Dioneya\source\repos\VMathLaba1.1\VMathLaba1.1\obj\Debug\net5.0\VMathLaba1.1.genruntimeconfig.cache
