@@ -15,9 +15,9 @@ namespace VMathLaba1._2
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Без изменения формулы {0}", ErrorFucn(3, FactorialMode.None));
-            Console.WriteLine("Расчёт факториала с числом целого типа {0}", ErrorFucn(3, FactorialMode.Integer));
-            Console.WriteLine("Расчёт факториала с числом вещественного типа {0}", ErrorFucn(3, FactorialMode.Real));
+            Console.WriteLine("Без изменения формулы {0}", ErrorFunc(3, FactorialMode.None));
+            Console.WriteLine("Расчёт факториала с числом целого типа {0}", ErrorFunc(3, FactorialMode.Integer));
+            Console.WriteLine("Расчёт факториала с числом вещественного типа {0}", ErrorFunc(3, FactorialMode.Real));
             Console.WriteLine("Расчёт формулы через предыдущий член ряда {0}", ErrorFuncModify(3));
             Console.ReadKey();
         }
@@ -54,7 +54,7 @@ namespace VMathLaba1._2
             return factorial;
         }
 
-        public static double ErrorFucn(double x, FactorialMode factorialMode)
+        public static double ErrorFunc(double x, FactorialMode factorialMode)
         {
             double sum = 0;
 

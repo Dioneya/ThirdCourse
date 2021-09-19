@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dioneya\\source\\repos\\VMathLaba1.2\\VMathLaba1.2\\VMathLaba1.2.csproj",
+      "projectUniqueName": "E:\\ThirdCourse\\Computational Mathematics\\Laba1\\VMathLaba1.2\\VMathLaba1.2\\VMathLaba1.2.csproj",
       "projectName": "VMathLaba1.2",
-      "projectPath": "C:\\Users\\Dioneya\\source\\repos\\VMathLaba1.2\\VMathLaba1.2\\VMathLaba1.2.csproj",
+      "projectPath": "E:\\ThirdCourse\\Computational Mathematics\\Laba1\\VMathLaba1.2\\VMathLaba1.2\\VMathLaba1.2.csproj",
       "packagesPath": "C:\\Users\\Dioneya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dioneya\\source\\repos\\VMathLaba1.2\\VMathLaba1.2\\obj\\",
+      "outputPath": "E:\\ThirdCourse\\Computational Mathematics\\Laba1\\VMathLaba1.2\\VMathLaba1.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dioneya\\AppData\\Roaming\\NuGet\\NuGet.Config",
